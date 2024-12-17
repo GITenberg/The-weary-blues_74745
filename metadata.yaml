@@ -1,0 +1,43 @@
+_repo: The-weary-blues_74745
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Van Vechten, Carl
+    aliases:
+    - Vetchen, Carl Van
+    - Vechten, Carl Van
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '31911'
+    url: http://www.gutenberg.org/2009/agents/31911
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Van_Vechten
+creator:
+  author:
+    agent_name: Hughes, Langston
+    alias: Hughes, James Langston
+    birthdate: 1902
+    deathdate: 1967
+    gutenberg_agent_id: '8670'
+    url: http://www.gutenberg.org/2009/agents/8670
+    wikipedia: https://en.wikipedia.org/wiki/Langston_Hughes
+description: ''
+gutenberg_issued: '2024-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74745'
+  lccn: '26004730'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015003918763&seq=1
+pgterms:marc905: 20241111180801hughes
+pgterms:marc906: '1926'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bAlfred A. Knopf, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: The weary blues
+url: http://www.gutenberg.org/ebooks/74745
